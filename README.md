@@ -1,15 +1,13 @@
 # django-mvc-
 backend django framework
 
-///////////////////////
-Programming language  
-used                                        
+
+Programming language used                                        
 * python              
 * jquery              
 * html                
 * css                 
-* bootstrap           
-///////////////////////
+* bootstrap         
 
 
 ///////////////
