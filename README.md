@@ -2,7 +2,7 @@
 backend django framework 
 
 ///////////////
-#song album website 
+# song album website 
 a web application that:-
 * stores songs
 * stores album 
@@ -11,5 +11,5 @@ a web application that:-
 * able to play playlist of songs
 
 
-#not completed yet 
+# not completed yet 
 ///////////////
