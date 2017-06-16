@@ -10,7 +10,7 @@ Programming language used
 * bootstrap         
 
 
-///////////////
+
 # song album website 
 a web application that:-
 * stores songs
@@ -21,4 +21,4 @@ a web application that:-
 
 
 # not completed yet 
-///////////////
+
