@@ -1,5 +1,15 @@
 # django-mvc-
-backend django framework 
+backend django framework
+///////////////////////
+Programming language  /
+used                  /                      
+* python              /
+* jquery              /
+* html                /
+* css                 /
+* bootstrap           /
+///////////////////////
+
 
 ///////////////
 # song album website 
