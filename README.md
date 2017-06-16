@@ -2,13 +2,13 @@
 backend django framework
 
 ///////////////////////
-Programming language  /
-used                  /                      
-* python              /
-* jquery              /
-* html                /
-* css                 /
-* bootstrap           /
+Programming language  
+used                                        
+* python              
+* jquery              
+* html                
+* css                 
+* bootstrap           
 ///////////////////////
 
 
