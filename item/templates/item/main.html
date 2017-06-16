@@ -1,0 +1,43 @@
+{% extends 'item/base.html' %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>{% block title %}Honey{% endblock %}</title>
+	<meta charset="utf-8">
+</head>
+<body>
+{% block body%}
+<div id="wrapper" >
+<!---sidebar-->
+	<div id="sidebar-wrapper">
+		<ul class="sidebar-nav">
+			<li><a href="#">Account</a></li>
+			<li><a href="#">Playlist</a></li>
+			<li><a href="#">Settings</a></li>
+		</ul>
+	</div>
+	<!---page content-->
+	<div id="page-content-wrapper">
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-lg-12" >
+					<a href="#" class="btn btn-success" id="menu-toggle"><span class="glyphicon glyphicon-menu-right"></span> </a>
+					<h1>Sidebar Layout are cool</h1>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima sapiente mollitia ipsum aliquam veritatis illum iste aspernatur? Iusto fugiat est quos, assumenda recusandae, placeat. Non saepe aperiam atque temporibus quis.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+
+</div>
+
+<!--- Menu toggle script -->	
+<script >
+	$("#menu-toggle").click(function (e){
+		e.preventDefault();
+		$("#wrapper").toggleClass("menuDisplayed");
+	});
+</script>
+{% endblock %}
+</body>
+</html>
